@@ -1,2 +1,2 @@
-# pre_commit_demo
-practicing how to set up a pre_commit.
+# precommit-demo
+Minimal Python repo with Conda `environment.yml` and a pre-commit hook to clean notebooks.
